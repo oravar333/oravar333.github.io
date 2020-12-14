@@ -23,9 +23,10 @@ title: Esaú Villatoro-Tello
 # author: Esaú Villatoro-Tello
 email: evillatoro@cua.uam.mx
 description: >- # this means to ignore newlines until "baseurl:"
-  Academic visitor at Idiap Research Institute in Switzerland.
+  Academic visitor at Idiap Research Institute in Switzerland, Full-time Professor
+  at Universidad Autónoma Metropolitana Unidad Cuajimalpa in Mexico City.
   My main research interets are related to Natural Language Processing,
-  Computational Linguistics, and Natural Language Understanding. 
+  Computational Linguistics, and Natural Language Understanding.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EsauVT
