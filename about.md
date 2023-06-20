@@ -15,6 +15,6 @@ css: "/assets/css/index.css"
 
 <hr>
 
-Visitors since the creation of this website (June. 2023). ¿Where do they come from?
+Visitors since the creation of this website, ¿where do they come from?
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=59we0o6x8lx&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
