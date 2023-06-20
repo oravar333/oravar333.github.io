@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contacto
-subtitle: ¿Alguna pregunta?
+title: Contact
+subtitle: Are you interested in my recent work?
 ---
 
-Puedes enviarme un [correo](mailto:evillatoro@cua.uam.mx) si tienes alguna duda o comentario respecto la información de este sitio. Procuraré responder lo antes posible, pero si no sucede así, siente la total libertad de recordármelo.
+You can write me an [email](mailto:esau.villatoro@idiap.ch) if you have any question regarding my current work or if you are looking to start a collaboration as well. I'll try to answer as soon as possible, but if this is not the case, plese write again. 
