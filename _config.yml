@@ -46,8 +46,11 @@ social-network-links:
   email: "esau.villatoro@idiap.ch"
   github: villatoroe
   twitter: EsauVT
+  linkedin: esa%C3%BA-villatoro-tello-bb185b1aa
+  ORCID: 0000-0002-1322-0358
+  google-scholar: citations?user=GzaiunYAAAAJ&hl=en
 #  reddit: yourname
-#  linkedin: mael-fabien
+  
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -61,8 +64,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: citations?user=r9hJzdwAAAAJ&hl=en&oi=ao
+
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
