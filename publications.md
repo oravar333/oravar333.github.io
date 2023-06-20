@@ -11,7 +11,7 @@ css: "/assets/css/index.css"
   <a href="/about" class="list-filter">About me</a>
 </div>
 ---
-This page is being updated. Please, in the meantime, check my latest publication info at [Google Scholar](https://scholar.google.com/citations?hl=en&user=GzaiunYAAAAJ)
+This page is being updated. Please, in the meantime, check my latest publications info at [Google Scholar](https://scholar.google.com/citations?hl=en&user=GzaiunYAAAAJ). 
 
 ---
 
