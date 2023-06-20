@@ -1,7 +1,14 @@
 ---
 layout: page
 title: About me...
-
+css: "/assets/css/index.css"
+---
+<div class="list-filters">
+  <a href="/" class="list-filter ">Home</a>
+  <a href="/publications" class="list-filter">Publications</a>
+  <a href="/contact" class="list-filter ">Contact</a>
+  <a href="/about" class="list-filter  filter-selected">About me</a>
+</div>
 ---
 ## About me
 
