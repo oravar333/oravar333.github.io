@@ -15,10 +15,10 @@ author: Esaú Villatoro-Tello
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About me: "about"
   Publications: "publications"
-  Galery: "galery"
+  About me: "about"
   Contact: "contact"
+  Galery: "galery"
 
 
 # --- Logo --- #
