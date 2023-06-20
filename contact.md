@@ -8,7 +8,7 @@ css: "/assets/css/index.css"
   <a href="/" class="list-filter ">Home</a>
   <a href="/publications" class="list-filter">Publications</a>
   <a href="/contact" class="list-filter  filter-selected">Contact</a>
-  <a href="/about" class="list-filter">About me</a>
+  <a href="/about" class="list-filter">About</a>
 </div>
 ---
 
