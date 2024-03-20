@@ -14,6 +14,7 @@ css: "/assets/css/index.css"
 This page is being updated. Please, in the meantime, check my full publications info at [Google Scholar](https://scholar.google.com/citations?hl=en&user=GzaiunYAAAAJ). 
 
 ---
+
 **2024**
 ---
 * <span style="color:blue">**Reliability Estimation of News Media Sources: Birds of a Feather Flock Together.**</span> *Sergio Burdisso, Dairazalia Sánchez-Cortés, Esaú Villatoro-Tello, Petr Motlicek.*  (To Appear) In NAACL 2024 - Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. June 2024. [**[WEB]**]()
@@ -22,7 +23,7 @@ This page is being updated. Please, in the meantime, check my full publications 
 
 * <span style="color:blue">**Multitask Speech Recognition and Speaker Change Detection for Unkown Number of Speakers.**</span> *Shashi Kumar, Srikanth Madikeri, Iuliia Nigmatulina, Esaú Villatoro-Tello, Petr Motlicek, Karthik Pandia, S. Pavankumar Dubagunta & Aravind Ganapathiraju.*  (To Appear) In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). April 2024. [**[WEB]**]()
 
-
+---
 
 **2023**
 ---
