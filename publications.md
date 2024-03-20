@@ -17,9 +17,9 @@ This page is being updated. Please, in the meantime, check my full publications 
 
 **2023**
 ---
-  * <span style="color:blue">**Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews.**</span> *Sergio Burdisso, Esau Villatoro-Tello,  Srikanth Madikeri & Petr Motlicek.* (To appear) In Proc. Interspeech 2023. August 2023. [**[WEB]**]()
+  * <span style="color:blue">**Node-weighted Graph Convolutional Network for Depression Detection in Transcribed Clinical Interviews.**</span> *Sergio Burdisso, Esau Villatoro-Tello,  Srikanth Madikeri & Petr Motlicek.*  In Proc. Interspeech 2023. August 2023. [**[WEB]**](https://www.isca-archive.org/interspeech_2023/burdisso23_interspeech.html)
 
-  * <span style="color:blue">**Implementing contextual biasing in GPU decoder for online ASR.**</span> *Iuliia Nigmatulina, Srikanth Madikeri, Esau Villatoro-Tello, Petr Motlicek, Juan Zuluaga-Gomez, S Karthik Pandia D & Aravind Ganapathiraju.* (To appear) In Proc. Interspeech 2023. August 2023. [**[WEB]**]()
+  * <span style="color:blue">**Implementing contextual biasing in GPU decoder for online ASR.**</span> *Iuliia Nigmatulina, Srikanth Madikeri, Esau Villatoro-Tello, Petr Motlicek, Juan Zuluaga-Gomez, S Karthik Pandia D & Aravind Ganapathiraju.*  In Proc. Interspeech 2023. August 2023. [**[WEB]**](https://www.isca-archive.org/interspeech_2023/nigmatulina23_interspeech.html)
 
   * <span style="color:blue">**Intelligent Technologies: Concepts, Applications, and Future Directions, Volume 2 (1st ed.).**</span> *Satya Ranjan Dash, Himansu Das, Kuan-Ching Li & Esau Villatoro Tello (Eds.).* Springer Singapore. June 2023. [**[DOI]**](https://doi.org/10.1007/978-981-99-1482-1)
   
