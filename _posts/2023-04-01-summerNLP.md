@@ -1,7 +1,7 @@
 ---
 title: NLP Summer School @ NAACL 2024!
 layout: post
-tags: [New job at Idiap]
+tags: [Events]
 subtitle : "Do not miss the opportunity to participate"
 ---
 
