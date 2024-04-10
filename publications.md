@@ -19,7 +19,7 @@ This page is being updated. Please, in the meantime, check my full publications 
 ---
 * <span style="color:blue">**Reliability Estimation of News Media Sources: Birds of a Feather Flock Together.**</span> *Sergio Burdisso, Dairazalia Sánchez-Cortés, Esaú Villatoro-Tello, Petr Motlicek.*  (To Appear) In NAACL 2024 - Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. June 2024. [**[WEB]**]()
 
-* <span style="color:blue">**Natural Language Understanding for Navigation of Service Robots in Low-Resource Domains and Languages: Scenarios in Spanish and Nahuatl.**</span> Amadeo Hernández , Rosa M. Ortega-Mendoza, Esaú Villatoro-Tello, César J. Camacho-Bello, Obed Pérez-Cortés. In Mathematics. 2024; 12(8):1136. April 2024 [**[WEB]**](https://doi.org/10.3390/math12081136) 
+* <span style="color:blue">**Natural Language Understanding for Navigation of Service Robots in Low-Resource Domains and Languages: Scenarios in Spanish and Nahuatl.**</span> *Amadeo Hernández , Rosa M. Ortega-Mendoza, Esaú Villatoro-Tello, César J. Camacho-Bello, Obed Pérez-Cortés.* In Mathematics. 2024; 12(8):1136. April 2024 [**[WEB]**](https://doi.org/10.3390/math12081136) 
 
 * <span style="color:blue">**Probability-Aware Word-Confusion-Network-To-Text Alignment Approach for Intent Classification.**</span> *Esaú Villatoro-Tello, Srikanth Madikeri, Bidisha Sharma, Driss Khalil, Shashi Kumar, Iuliia Nigmatulina, Petr Motlicek & Aravind Ganapathiraju.*  (To Appear) In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). April 2024. [**[WEB]**](https://ieeexplore.ieee.org/document/10445934)
 
@@ -55,7 +55,7 @@ This page is being updated. Please, in the meantime, check my full publications 
 
   * <span style="color:blue">**Expanded Lattice Embeddings for Spoken Document Retrieval on Informal Meetings.**</span>  *Esaú Villatoro-Tello, Srikanth Madikeri, Petr Motlicek, Aravind Ganapathiraju & Alexei V. Ivanov.* In Proceedings of the 45th International ACM SIGIR Confernence on Research and Developmnet in Information Retrieval. July 2022. [**[WEB]**](https://dl.acm.org/doi/10.1145/3477495.3531921)
 
-  * <span style="color:blue">**Classifying the Social Media Author Profile Through a Multimodal Representation..**</span> *M. Angel Álvarez-Carmona, Esaú Villatoro-Tello, Luis Villaseñor-Pineda & Manuel Montes-y-Gómez.* In: Dash, S.R., Lenka, M.R., Li, KC., Villatoro-Tello, E. (eds) Intelligent Technologies: Concepts, Applications, and Future Directions. Studies in Computational Intelligence, vol 1028. Springer, Singapore. May 2022. [**[WEB]**](https://link.springer.com/chapter/10.1007/978-981-19-1021-0_3)
+  * <span style="color:blue">**Classifying the Social Media Author Profile Through a Multimodal Representation.**</span> *M. Angel Álvarez-Carmona, Esaú Villatoro-Tello, Luis Villaseñor-Pineda & Manuel Montes-y-Gómez.* In: Dash, S.R., Lenka, M.R., Li, KC., Villatoro-Tello, E. (eds) Intelligent Technologies: Concepts, Applications, and Future Directions. Studies in Computational Intelligence, vol 1028. Springer, Singapore. May 2022. [**[WEB]**](https://link.springer.com/chapter/10.1007/978-981-19-1021-0_3)
 
   * <span style="color:blue">**Intelligent Technologies: Concepts, Applications, and Future Directions Volume 1 (1st ed.).**</span> *Satya Ranjan Dash, Manas Ranjan Lenka, Kuan-Ching Li & Esaú Villatoro-Tello (Eds.).* Springer Singapore. May 2022. [**[DOI]**](https://doi.org/10.1007/978-981-19-1021-0)
 
@@ -63,7 +63,21 @@ This page is being updated. Please, in the meantime, check my full publications 
 
 **2021**
 ---
+* <span style="color:blue">**BertOdia: BERT pre-training for low resource Odia language.**</span> *Shantipriya Parida, Satya Prakash Biswal, Biranchi Narayan Nayak, Mael Fabien, Esaú Villatoro-TEllo and Petr Motlicek.* In proceedings of the Biologically Inspired Techniques in Many-Criteria Decision Making (BITMDM-2021). December 2021. [**[WEB]**](https://link.springer.com/chapter/10.1007/978-981-16-8739-6_32)
 
+* <span style="color:blue">**Automatic Dialect Detection for Low Resource Santali Language.**</span> *Sunil Kumar Sahoo, Brojo Kishore Mishra, Shantipriya Parida, Satya Ranjan Dash, Jatindra Nath Besra and Esaú Villatoro-Tello.* In Proceeding of International Conference on Information Technology (OCIT), December 2021. [**[WEB]**](https://ieeexplore.ieee.org/document/9719574)
+
+* <span style="color:blue">**Applying Attention-Based Models for Detecting Cognitive Processes and Mental Health Conditions.**</span> *Esaú Villatoro-Tello, Shantipriya Parida, Sajit Kumar, and Petr Motlicek.* In Cognitive Computation Journal, Springer, 2021. Online July 2021. [**[DOI]**](https://doi.org/10.1007/s12559-021-09901-1)
+
+* <span style="color:blue">**Approximating the Mental Lexicon from Clinical Interviews as a Support Tool for Depression Detection.**</span> *Esaú Villatoro-Tello, Gabriela Ramírez-de-la-Rosa, Daniel Gatica-Perez, Mathew Magimai.-Doss and Héctor Jiménez-Salazar.* In Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI'21), ACM, 2021. [**[DOI]**](https://doi.org/10.1145/3462244.3479896)
+
+* <span style="color:blue">**Late Fusion of the Available Lexicon and Raw Waveform-based Acoustic Modeling for Depression and Dementia Recognition.**</span> *Esaú Villatoro-Tello, S. Pavankumar Dubagunta, Julian Fritsch, Gabriela Ramírez-de-la-Rosa, Petr Motlicek, and Mathew Magimai.-Doss.* In Proceedings of the Interspeech 2021. Brno, Czechia. September 2021. [**[DOI]**](10.21437/Interspeech.2021-1288 )
+
+* <span style="color:blue">**Open Machine Translation for Low Resource South American Languages (AmericasNLP 2021 Shared Task Contribution).**</span> *Shantipriya Parida, Subhadarshi Panda, Amulya Dash, Esaú Villatoro-Tello, A. Seza Doğruöz, Rosa M. Ortega-Mendoza, Amadeo Hernández, Yashvardhan Sharma, and Petr Motlicek.* In Proceedings of the First Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP) at NAACL 2021, Mexico City, June 2021. [**[WEB]**](https://aclanthology.org/2021.americasnlp-1.24.pdf)
+
+* <span style="color:blue">**Análisis de representaciones vectoriales en bitácoras de mantenimiento en la industria: Hacia un sistema de Recuperación de Información.**</span> *Jesús Roberto Enrique León Carmona, Samuel González-López, Esaú Villatoro-Tello, and Jesús Miguel García-Gorrostieta.* In Journal of Research in Computing Science; 150(5), May 2021. [**[WEB]**](https://www.rcs.cic.ipn.mx/2021_150_5/Analisis%20de%20representaciones%20vectoriales%20en%20bitacoras%20de%20mantenimiento%20en%20la%20Industria_.pdf)
+
+* <span style="color:blue">**Análisis y seguimiento de tópicos en las conferencias matutinas del presidente de México.**</span> *Luis Armando Arías Romero, Gabriela Ramírez-de-la-Rosa, and Esaú Villatoro-Tello.* In Journal of Research in Computing Science; 150(5), May 2021. [**[WEB]**](https://www.rcs.cic.ipn.mx/2021_150_5/Analisis%20y%20seguimiento%20de%20topicos%20en%20las%20conferencias%20matutinas%20del%20presidente%20de%20Mexico.pdf)
 ---
 
 **2020**
