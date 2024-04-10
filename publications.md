@@ -78,6 +78,7 @@ This page is being updated. Please, in the meantime, check my full publications 
 * <span style="color:blue">**Análisis de representaciones vectoriales en bitácoras de mantenimiento en la industria: Hacia un sistema de Recuperación de Información.**</span> *Jesús Roberto Enrique León Carmona, Samuel González-López, Esaú Villatoro-Tello, and Jesús Miguel García-Gorrostieta.* In Journal of Research in Computing Science; 150(5), May 2021. [**[WEB]**](https://www.rcs.cic.ipn.mx/2021_150_5/Analisis%20de%20representaciones%20vectoriales%20en%20bitacoras%20de%20mantenimiento%20en%20la%20Industria_.pdf)
 
 * <span style="color:blue">**Análisis y seguimiento de tópicos en las conferencias matutinas del presidente de México.**</span> *Luis Armando Arías Romero, Gabriela Ramírez-de-la-Rosa, and Esaú Villatoro-Tello.* In Journal of Research in Computing Science; 150(5), May 2021. [**[WEB]**](https://www.rcs.cic.ipn.mx/2021_150_5/Analisis%20y%20seguimiento%20de%20topicos%20en%20las%20conferencias%20matutinas%20del%20presidente%20de%20Mexico.pdf)
+
 ---
 
 **2020**
