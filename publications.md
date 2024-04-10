@@ -19,9 +19,11 @@ This page is being updated. Please, in the meantime, check my full publications 
 ---
 * <span style="color:blue">**Reliability Estimation of News Media Sources: Birds of a Feather Flock Together.**</span> *Sergio Burdisso, Dairazalia Sánchez-Cortés, Esaú Villatoro-Tello, Petr Motlicek.*  (To Appear) In NAACL 2024 - Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. June 2024. [**[WEB]**]()
 
-* <span style="color:blue">**Probability-Aware Word-Confusion-Network-To-Text Alignment Approach for Intent Classification.**</span> *Esaú Villatoro-Tello, Srikanth Madikeri, Bidisha Sharma, Driss Khalil, Shashi Kumar, Iuliia Nigmatulina, Petr Motlicek & Aravind Ganapathiraju.*  (To Appear) In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). April 2024. [**[WEB]**]()
+* <span style="color:blue">**Natural Language Understanding for Navigation of Service Robots in Low-Resource Domains and Languages: Scenarios in Spanish and Nahuatl.**</span> Amadeo Hernández , Rosa M. Ortega-Mendoza, Esaú Villatoro-Tello, César J. Camacho-Bello, Obed Pérez-Cortés. In Mathematics. 2024; 12(8):1136. April 2024 [**[WEB]**](https://doi.org/10.3390/math12081136) 
 
-* <span style="color:blue">**Multitask Speech Recognition and Speaker Change Detection for Unkown Number of Speakers.**</span> *Shashi Kumar, Srikanth Madikeri, Iuliia Nigmatulina, Esaú Villatoro-Tello, Petr Motlicek, Karthik Pandia, S. Pavankumar Dubagunta & Aravind Ganapathiraju.*  (To Appear) In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). April 2024. [**[WEB]**]()
+* <span style="color:blue">**Probability-Aware Word-Confusion-Network-To-Text Alignment Approach for Intent Classification.**</span> *Esaú Villatoro-Tello, Srikanth Madikeri, Bidisha Sharma, Driss Khalil, Shashi Kumar, Iuliia Nigmatulina, Petr Motlicek & Aravind Ganapathiraju.*  (To Appear) In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). April 2024. [**[WEB]**](https://ieeexplore.ieee.org/document/10445934)
+
+* <span style="color:blue">**Multitask Speech Recognition and Speaker Change Detection for Unkown Number of Speakers.**</span> *Shashi Kumar, Srikanth Madikeri, Iuliia Nigmatulina, Esaú Villatoro-Tello, Petr Motlicek, Karthik Pandia, S. Pavankumar Dubagunta & Aravind Ganapathiraju.*  (To Appear) In ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). April 2024. [**[WEB]**](https://ieeexplore.ieee.org/document/10446130)
 
 ---
 
