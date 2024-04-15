@@ -83,6 +83,21 @@ This page is being updated. Please, in the meantime, check my full publications 
 
 **2020**
 ---
+* <span style="color:blue">**BertAA: BERT fine-tuning for Authorship Attribution.**</span> *Maël Fabien, Esaú Villatoro-Tello, Petr Motlicek, and Shantipriya Parida.* In Proceedings of the 17th International Conference on Natural Language Processing (ICON 2020). India. December 2020. [**[WEB]**](https://aclanthology.org/2020.icon-main.16/)
+
+* <span style="color:blue">**Detection of Similar Languages and Dialects Using Deep Supervised Autoencoders.**</span> *Shantipriya Parida, Esaú Villatoro-Tello, Sajit Kumar, Maël Fabien, and Petr Motlicek.* In Proceedings of the 17th International Conference on Natural Language Processing (ICON 2020). India. December 2020. [**[WEB]**](https://aclanthology.org/2020.icon-main.49/)
+
+* <span style="color:blue">**Inferring Highly-dense Representations for Clustering Broadcast Media Content.**</span> *Esaú Villatoro-Tello, Shantipriya Parida, Petr Motlicek, Ondřej Bojar.* In Prague Bulletin of Mathematical Linguistics (PBML) Computational Linguistics Journal, vol. 115. October 2020. [**[WEB]**](https://ufal.mff.cuni.cz/pbml/115/art-villatoro-tello-et-al.pdf) 
+
+* <span style="color:blue">**Idiap and UAM Participation at MEX-A3T Evaluation Campaign.**</span> *Esaú Villatoro-Tello, Gabriela Ramírez-de-la-Rosa, Sajit Kumar, Shantipriya Parida, Petr Motlicek.* In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2020), vol. 2664. Malaga, Spain. September 2020. [**[WEB]**](http://ceur-ws.org/Vol-2664/mexa3t_paper3.pdf)
+
+* <span style="color:blue">**Idiap & UAM participation at GermEval 2020: Classification and Regression of Cognitive and Motivational Style from Text.**</span> *Esaú Villatoro-Tello, Shantipriya Parida, Sajit Kumar, Petr Motlicek, Qingran Zhan.* In Proceedings of the 5th Swiss Text Analytics Conference (SwissText) & 16th Conference on Natural Language Processing (KONVENS), Zurich, Switzerland, June 23-25, 2020. [**[WEB]**](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/germeval-2020-cognitive-motive/ge20st1-paper-2.pdf)
+
+* <span style="color:blue">**Idiap Submission to Swiss-German Language Detection Shared Task.**</span> *Shantipriya Parida, Esaú Villatoro-Tello, Sajit Kumar, Petr Motlicek, Qingran Zhan.* In Proceedings of the 5th Swiss Text Analytics Conference (SwissText) & 16th Conference on Natural Language Processing (KONVENS), Zurich, Switzerland, June 23-25, 2020. [**[WEB]**](http://ceur-ws.org/Vol-2624/germeval-task2-paper4.pdf)
+
+* <span style="color:blue">**Predicting consumers engagement on Facebook based on what and how companies write.**</span> *Érika S. Rosas-Quezada, Gabriela Ramírez-de-la-Rosa, and Esaú Villatoro-Tello.* In Journal of Intelligent & Fuzzy Systems (JIFS), vol. 39:2. June 2020. [**[DOI]**](10.3233/JIFS-179897)
+
+* <span style="color:blue">**Author Profiling in Social Media with Multimodal Information.**</span> *Miguel Á. Álvarez-Carmona, Esaú Villatoro-Tello, Manuel Montes-y-Gómez, and Luis Villaseñor Pineda.* In Journal of Computación y Sistemas (CyS), vol. 24:3. April 2020. [**[]**](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3488)
 
 ---
 
