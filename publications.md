@@ -95,9 +95,9 @@ This page is being updated. Please, in the meantime, check my full publications 
 
 * <span style="color:blue">**Idiap Submission to Swiss-German Language Detection Shared Task.**</span> *Shantipriya Parida, Esaú Villatoro-Tello, Sajit Kumar, Petr Motlicek, Qingran Zhan.* In Proceedings of the 5th Swiss Text Analytics Conference (SwissText) & 16th Conference on Natural Language Processing (KONVENS), Zurich, Switzerland, June 23-25, 2020. [**[WEB]**](http://ceur-ws.org/Vol-2624/germeval-task2-paper4.pdf)
 
-* <span style="color:blue">**Predicting consumers engagement on Facebook based on what and how companies write.**</span> *Érika S. Rosas-Quezada, Gabriela Ramírez-de-la-Rosa, and Esaú Villatoro-Tello.* In Journal of Intelligent & Fuzzy Systems (JIFS), vol. 39:2. June 2020. [**[DOI]**](10.3233/JIFS-179897)
+* <span style="color:blue">**Predicting consumers engagement on Facebook based on what and how companies write.**</span> *Érika S. Rosas-Quezada, Gabriela Ramírez-de-la-Rosa, and Esaú Villatoro-Tello.* In Journal of Intelligent & Fuzzy Systems (JIFS), vol. 39:2. June 2020. [**[WEB]**](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179897)
 
-* <span style="color:blue">**Author Profiling in Social Media with Multimodal Information.**</span> *Miguel Á. Álvarez-Carmona, Esaú Villatoro-Tello, Manuel Montes-y-Gómez, and Luis Villaseñor Pineda.* In Journal of Computación y Sistemas (CyS), vol. 24:3. April 2020. [**[]**](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3488)
+* <span style="color:blue">**Author Profiling in Social Media with Multimodal Information.**</span> *Miguel Á. Álvarez-Carmona, Esaú Villatoro-Tello, Manuel Montes-y-Gómez, and Luis Villaseñor Pineda.* In Journal of Computación y Sistemas (CyS), vol. 24:3. April 2020. [**[WEB]**](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3488)
 
 ---
 
