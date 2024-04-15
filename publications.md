@@ -111,7 +111,7 @@ This page is being updated. Please, in the meantime, check my full publications 
 
 * <span style="color:blue">**A Comparative Analysis of Distributional Term Representations for Author Profiling in Social Media.**</span> *Álvarez-Carmona, M. Á., Villatoro-Tello, E., Montes-y-Gómez M., and Villaseñor-Pineda, L.* In Journal of Intelligent & Fuzzy Systems (JIFS), vol. 36:5. May 2019. [**[WEB]**](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179033)
 
-* <span style="color:blue">**Attribute Selection Techniques for Classification of Aggressive Tweets. LyR-UAMC participation at MexA3T 2019 Task.**</span> *Gabriela Ram´ırez-de-la-Rosa, Esa´u Villatoro-Tello, and Héctor Jim´enez-Salazar * In Working Notes of the Iberian Languages Evaluation Forum (IberLEF) 2019, vol. 2421. September 2019. [**[WEB]**](http://ceur-ws.org/Vol-2421/MEX-A3T_paper_4.pdf)
+* <span style="color:blue">**Attribute Selection Techniques for Classification of Aggressive Tweets. LyR-UAMC participation at MexA3T 2019 Task.**</span> *Gabriela Ramírez-de-la-Rosa, Esaú Villatoro-Tello, and Héctor Jiménez-Salazar.* In Working Notes of the Iberian Languages Evaluation Forum (IberLEF) 2019, vol. 2421. September 2019. [**[WEB]**](http://ceur-ws.org/Vol-2421/MEX-A3T_paper_4.pdf)
 
 ---
 
