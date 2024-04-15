@@ -103,6 +103,15 @@ This page is being updated. Please, in the meantime, check my full publications 
 
 **2019**
 ---
+* <span style="color:blue">**Finding Evidence Of The Sexual Predators Behavior.**</span> *Ángeles López-Flores, Esaú Villatoro-Tello, and  Gabriela Ramírez-de-la-Rosa.* In LatinX in AI Research at NeurIPS 2019, Vancouver Canada. December, 2019.
+
+* <span style="color:blue">**Mental lexicon for personality identification in texts.**</span> *Gabriela Ramírez-de-la-Rosa, Esaú Villatoro-Tello, and Héctor Jiménez-Salazar.* In LatinX in AI Research at NeurIPS 2019, Vancouver Canada. December, 2019.
+
+* <span style="color:blue">**Corpus Reacción: consumers engagement in Facebook posts.**</span> *Érika S. Rosas-Quezada, Gabriela Ramírez-de-la-Rosa, Esaú Villatoro-Tello.* In Proceedings of the Latin American and Iberian Languages Open Corpora Forum, Guanajuato, Mexico. September 2019.
+
+* <span style="color:blue">**A Comparative Analysis of Distributional Term Representations for Author Profiling in Social Media.**</span> *Álvarez-Carmona, M. Á., Villatoro-Tello, E., Montes-y-Gómez M., and Villaseñor-Pineda, L.* In Journal of Intelligent & Fuzzy Systems (JIFS), vol. 36:5. May 2019. [**[WEB]**](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179033)
+
+* <span style="color:blue">**Attribute Selection Techniques for Classification of Aggressive Tweets. LyR-UAMC participation at MexA3T 2019 Task.**</span> *Gabriela Ram´ırez-de-la-Rosa, Esa´u Villatoro-Tello, and Héctor Jim´enez-Salazar * In Working Notes of the Iberian Languages Evaluation Forum (IberLEF) 2019, vol. 2421. September 2019. [**[WEB]**](http://ceur-ws.org/Vol-2421/MEX-A3T_paper_4.pdf)
 
 ---
 
