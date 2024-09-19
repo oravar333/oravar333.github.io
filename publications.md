@@ -5,6 +5,8 @@ subtitle: Exahustive list of my publications
 css: "/assets/css/index.css"
 ---
 
+<hr>
+
 This page is being updated. Please, in the meantime, check my full publications info at [Google Scholar](https://scholar.google.com/citations?hl=en&user=GzaiunYAAAAJ). 
 
     

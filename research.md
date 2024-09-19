@@ -3,6 +3,7 @@ layout: page
 title: Research Activities
 css: "/assets/css/index.css"
 ---
+
 <!-- <div class="list-filters">
   <a href="/" class="list-filter ">Home</a>
   <a href="/publications" class="list-filter filter-selected">Publications</a>
@@ -10,9 +11,10 @@ css: "/assets/css/index.css"
   <a href="/about" class="list-filter">About</a>
 </div> -->
 
+
 <div class="tab-wrapper">
 	<div class="tab">
-	<button class="tablinks" onclick="openSection(event, 'Rsearch Projects')"><strong>Research Projects</strong></button>
+	<button class="tablinks" onclick="openSection(event, 'Rsearch Projects')"id="defaultOpen"><strong>Research Projects</strong></button>
 	<button class="tablinks" onclick="openSection(event, 'Scientific Activities')"><strong>Scientific Activities</strong></button>
 	</div>
 </div>
