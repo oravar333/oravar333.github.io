@@ -14,7 +14,7 @@ css: "/assets/css/index.css"
 
 <div class="tab-wrapper">
 	<div class="tab">
-	<button class="tablinks" onclick="openSection(event, 'R&D Projects')"  id="defaultOpen"><strong>Keynotes</strong></button>
+	<button class="tablinks" onclick="openSection(event, 'Projects')"  id="defaultOpen"><strong>Current and Past Projects</strong></button>
 	<button class="tablinks" onclick="openSection(event, 'Scientific Activities')"><strong>Scientific Activities</strong></button>
 	</div>
 </div>
