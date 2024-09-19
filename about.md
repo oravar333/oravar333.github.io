@@ -10,7 +10,7 @@ css: "/assets/css/index.css"
   <a href="/about" class="list-filter  filter-selected">About</a>
 </div>
 ---
-### About me...
+### About this website! 
 
 
 <hr>
