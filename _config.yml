@@ -15,10 +15,9 @@ author: Esaú Villatoro-Tello
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "publications"
+  Research Activities: "research"
+  Teaching Activities: "teaching"
   About: "about"
-  Contact: "contact"
-  Galery: "galery"
 
 
 # --- Logo --- #
