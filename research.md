@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Publications
-subtitle: List of my most recent publications
+title: Research Activities
 css: "/assets/css/index.css"
 ---
 <!-- <div class="list-filters">
@@ -10,6 +9,7 @@ css: "/assets/css/index.css"
   <a href="/contact" class="list-filter">Contact</a>
   <a href="/about" class="list-filter">About</a>
 </div> -->
+
 <div class="tab-wrapper">
 	<div class="tab">
 	<button class="tablinks" onclick="openSection(event, 'Publications')"  id="defaultOpen"><strong>Publications</strong></button>
