@@ -8,12 +8,12 @@ css: "/assets/css/index.css"
 cover-img:
   - "/assets/images/Siviez.JPEG" : "Siviez, Nendaz, 2023"
 ---
-<div class="list-filters">
+<!-- <div class="list-filters">
   <a href="/" class="list-filter  filter-selected">Home</a>
   <a href="/publications" class="list-filter">Publications</a>
   <a href="/contact" class="list-filter">Contact</a>
   <a href="/about" class="list-filter">About</a>
-</div>
+</div> -->
 ---
 
 Welcome!!
