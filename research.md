@@ -17,13 +17,13 @@ css: "/assets/css/index.css"
 	<button class="tablinks" onclick="openSection(event, 'Scientific Activities')"><strong>Scientific Activities</strong></button>
 	</div>
 </div>
----
 
-<div id="Tutorials" class="tabcontent">
- <section id="main-bio">
+<div id="Publications" class="tabcontent">
+ <section id="main-publications">
+    
     This page is being updated. Please, in the meantime, check my full publications info at [Google Scholar](https://scholar.google.com/citations?hl=en&user=GzaiunYAAAAJ). 
 
-    ---
+    
 
     **2024**
     ---
