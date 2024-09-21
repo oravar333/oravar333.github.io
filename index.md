@@ -8,15 +8,8 @@ css: "/assets/css/index.css"
 cover-img:
   - "/assets/images/Siviez.JPEG" : "Siviez, Nendaz, 2023"
 ---
-<!-- <div class="list-filters">
-  <a href="/" class="list-filter  filter-selected">Home</a>
-  <a href="/publications" class="list-filter">Publications</a>
-  <a href="/contact" class="list-filter">Contact</a>
-  <a href="/about" class="list-filter">About</a>
-</div> -->
----
 
-Welcome!!
+## Welcome!!
 
 Currently, I'm working as a Researcher at [Idiap](https://www.idiap.ch/en) research institute. I'm actively collaborating with Dr. Petr Motlicek in the [Speech and Audio Processing Group](https://www.idiap.ch/en/scientific-research/speech-and-audio-processing). Until December 2022, I held a tenured position at the Universidad Autónoma Metropolitana campus Cuajimalpa ([UAM-C](https://www.cua.uam.mx/)) in Mexico City. I'm an active member of the Language and Reasoning research group ([LyR](http://lyr.cua.uam.mx/)) in the Information Technologies Department. In addition, I'm an external member of the Laboratory of Language Technologies ([LabTL](http://ccc.inaoep.mx/labtl/)) of the Computational Sciences Department at the National Institute of Astrophysics, Optics and Electronics ([INAOE](https://www.inaoep.mx/)), located in Puebla, Mexico. I’m also a member of the Mexican Association for Natural Language Processing ([AMPLN](http://ampln.mx/portal/inicio)), the Hispano-American Network for Automatic Human Language Processing (RedHisTAL), and member of the Mexican Academy of Computer Science ([AMEXCOMP](https://amexcomp.mx/)).
 
