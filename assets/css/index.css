@@ -34,19 +34,3 @@
     display: block;
   }
 }
-.tab-wrapper {
-  display: flex;
-  justify-content: center; /* Centers the tab content horizontally */
-}
-
-.tab {
-  display: flex;
-  justify-content: center; /* Ensures buttons stay in one row and are centered */
-  gap: 15px; /* Adds space between the buttons */
-  flex-wrap: nowrap; /* Prevents wrapping onto a new line */
-}
-
-.tab button {
-  padding: 10px 20px; /* Adjust the padding as needed for button size */
-  white-space: nowrap; /* Prevents text from wrapping inside buttons */
-}
