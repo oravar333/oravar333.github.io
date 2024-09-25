@@ -18,7 +18,6 @@ css: "/assets/css/index.css"
 	<button class="tablinks" onclick="openSection(event, 'ScientificA')"><strong>Scientific Activities</strong></button>
 	</div>
 </div>
-
 <div id="NProjects" class="tabcontent">
     <style>
         /* Basic Reset */
@@ -66,14 +65,13 @@ css: "/assets/css/index.css"
             <summary class="project-info"><strong>Project type:</strong> | Research </summary>
             My role: (PI) Main researcher and supervisor of the involved students. 
         </details>
-		    <details>
+            <details>
             <summary class="project-info"><strong>Summary:</strong></summary>
             This project aims to investigate what aspects of patients’ language and behaviour can be effectively and efficiently modelled by very recent AI techniques in the diagnostic construct of depression disorders, considering relevant demographic variables such as cultural background (native language) and gender. More in particular, we aim to answer what type of knowledge, extracted from the data and those provided by the domain expert, can be exploited and infused into the learning process adding intelligibility capabilities to the generated models. The outcomes of this project will have an impact in the clinical context, where digital solutions are required to reduce the limitations of the healthcare systems of low- and mid-income countries.
         </details>		    
     </details>
     <hr>    
 </div>
-
 <div id="PProjects" class="tabcontent">
     <style>
         /* Basic Reset */
@@ -121,7 +119,7 @@ css: "/assets/css/index.css"
             <summary class="project-info"><strong>Project type:</strong> | Research </summary>
             My role: (PI) Main researcher, project coordinator and supervisor of the involved students. 
         </details>
-		    <details>
+            <details>
             <summary class="project-info"><strong>Summary:</strong></summary>
             Evaluate the impact of multimodal features in the task of Personality trait recognition. Particularly, textual features in combination with attributes extracted from the images of handwritten texts are being considered. In parallel, a large multi-modal Spanish corpus was constructed.
         </details>		    
@@ -136,7 +134,7 @@ css: "/assets/css/index.css"
             <summary class="project-info"><strong>Project type:</strong> | Science Divulgation and Communication</summary>
             My role: (PI) Main researcherand coordinator of the event.
         </details>
-		    <details>
+            <details>
             <summary class="project-info"><strong>Summary:</strong></summary>
             To provide a training event with a global scope aiming at updating participants about the most recent advances in the critical and fast-developing area of deep learning and its impact on Natural Language Processing. All the material from this workshop can be found <a href="http://dti.cua.uam.mx/tallerPLN2018/">here</a>
         </details>		    
@@ -151,7 +149,7 @@ css: "/assets/css/index.css"
             <summary class="project-info"><strong>Project type:</strong> | Innovation </summary>
             My role: (PI) Main researcher, project coordinator and supervisor of the involved students. 
         </details>
-		    <details>
+            <details>
             <summary class="project-info"><strong>Summary:</strong></summary>
             Development of an Information Extraction system specialized in finding clinical information associated with genetic variants in scientific papers. Natural Language Processing methods in combination with machine learning algorithms were employed.
         </details>
@@ -160,35 +158,34 @@ css: "/assets/css/index.css"
         <summary class="project-title">Cloud bioinformatics platform for the identification of genetic variants, an application for molecular diagnosis and genomic research.</summary>
         <details>
             <summary class="project-info"><strong>Funding Agency</strong> | CONACyT, Mexico</summary>
-              Project funded by the CONACyT Innovation Program (PEI-CONACyT) 2017. Developed in the Information Technologies Department, Universidad Autónoma Metropolitana Unidad Cuajimalpa, Mexico in collaboration with the industrial partner “Web and Internet and Network Technology for Enterprise Resources (WINTER) SA de CV”, Mexico. Period: <em>Feb 2017 - January 2018</em>. Project grant number: <em>242211</em>.
+            Project funded by the CONACyT Innovation Program (PEI-CONACyT) 2017. Developed in the Information Technologies Department, Universidad Autónoma Metropolitana Unidad Cuajimalpa, Mexico in collaboration with the industrial partner “Web and Internet and Network Technology for Enterprise Resources (WINTER) SA de CV”, Mexico. Period: <em>Feb 2017 - January 2018</em>. Project grant number: <em>242211</em>.
         </details>
         <details>
             <summary class="project-info"><strong>Project type:</strong> | Innovation </summary>
-              My role: (PI) Main researcher, project coordinator and supervisor of the involved students. 
+            My role: (PI) Main researcher, project coordinator and supervisor of the involved students. 
         </details>
         <details>
             <summary class="project-info"><strong>Summary:</strong></summary>
-              To develop a machine-learning approach for the identification of genetic variants with pathogenic potential. We delivered a solution for classifying a genetic mutation into two possible categories: mutation related to a certain pathology, or mutation not related to the pathology.
+            To develop a machine-learning approach for the identification of genetic variants with pathogenic potential. We delivered a solution for classifying a genetic mutation into two possible categories: mutation related to a certain pathology, or mutation not related to the pathology.
         </details>
     </details>
     <details>
         <summary class="project-title">Sexual Predators Identification in Chat Conversations Employing Sequential Information.</summary>
         <details>
             <summary class="project-info"><strong>Funding Agency</strong> | SEP-PROMEP, Mexico</summary>
-              Project funded by the Full-time Professors Incorporation Program SEP-PROMEP 2013. Developed in the Information Technologies Department, Universidad Autónoma Metropolitana Unidad Cuajimalpa, Mexico in collaboration with the National Institute of Astrophysics Optics and Electronics (INAOE), Puebla, Mexico and the Universidad Nacional de San Luis, Argentina. Period: <em>Sep 2013 - Dec 2014</em>. Project grant number: <em>SEP-PROMEP-48510349</em>.
+            Project funded by the Full-time Professors Incorporation Program SEP-PROMEP 2013. Developed in the Information Technologies Department, Universidad Autónoma Metropolitana Unidad Cuajimalpa, Mexico in collaboration with the National Institute of Astrophysics Optics and Electronics (INAOE), Puebla, Mexico and the Universidad Nacional de San Luis, Argentina. Period: <em>Sep 2013 - Dec 2014</em>. Project grant number: <em>SEP-PROMEP-48510349</em>.
         </details>
         <details>
             <summary class="project-info"><strong>Project type:</strong> | Research </summary>
-              My role: (PI) Main researcher, project coordinator and supervisor of the involved students. 
+            My role: (PI) Main researcher, project coordinator and supervisor of the involved students. 
         </details>
         <details>
             <summary class="project-info"><strong>Summary:</strong></summary>
-              To develop a novel method for automatically identifying sexual predators in chat conversations based on text representations incorporating sequential data.
+            To develop a novel method for automatically identifying sexual predators in chat conversations based on text representations incorporating sequential data.
         </details>
     </details>
     <hr>    
 </div>
-
 <div id="ScientificA" class="tabcontent">
     <style>
         /* Basic Reset */
@@ -274,6 +271,7 @@ css: "/assets/css/index.css"
     </details>
     <hr>    
 </div>
+
 <script>
 // JavaScript for Tabs
 function openSection(evt, sectionName) {
@@ -289,7 +287,6 @@ function openSection(evt, sectionName) {
   document.getElementById(sectionName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-
 // Open the first tab by default
 document.addEventListener("DOMContentLoaded", function() {
   document.getElementById("defaultOpen").click();
