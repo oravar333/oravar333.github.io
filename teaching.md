@@ -6,6 +6,7 @@ css: "/assets/css/index.css"
 ---
 
 <hr>
+### Teaching
 
 The next table shows the details of the courses I had under my responsibility at [UAM-C](https://www.cua.uam.mx/). The first column indicates the corresponding academic program ([LTSI](https://www.cua.uam.mx/oferta-educativa/licenciaturas/tecnologias-y-sistemas-de-informacion), [MADIC](https://www.cua.uam.mx/oferta-educativa/posgrados/maestria-en-diseno-informacion-y-comunicacion), [PCNI](https://www.cua.uam.mx/oferta-educativa/posgrados/posgrado-en-ciencias-naturales-e-ingenieria), the second column depicts the course name, the third column provides a link to the syllabus (when available) and the fourth column indicates the academic period in which I taught the corresponding course.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Projects
-subtitle: Current and Past R&D activities (as main PI)
+subtitle: Current and Past R&D project (as main PI)
 css: "/assets/css/index.css"
 ---
 
