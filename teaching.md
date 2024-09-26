@@ -68,7 +68,7 @@ The next table shows the details of the courses I had under my responsibility at
       <td>Autumn 2012</td>
     </tr>
     <tr>
-      <td>MADIC</td>
+      <td rowspan="2">MADIC</td>
       <td>Social Networks Analysis</td>
       <td><a href="http://escritura.cua.uam.mx/archivos_Madic/analisis_redes_sociales.pdf">link</a></td>
       <td>Winter 2019</td>
