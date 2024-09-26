@@ -74,7 +74,6 @@ The next table shows the details of the courses I had under my responsibility at
       <td>Winter 2019</td>
     </tr>
     <tr>
-      <td></td>
       <td>Natural Language Processing</td>
       <td>-</td>
       <td>Winter 2014, Winter 2015, Winter 2016, Winter 2017, Winter 2018</td>
