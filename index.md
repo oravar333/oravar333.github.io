@@ -19,6 +19,6 @@ Over time, I shifted my focus to challenges that directly impact people's lives.
 
 Balancing scientific exploration with practical innovation has been a constant in my career. With over 30 patents, a wealth of publications, and experience transferring lab technologies to real-world applications, I have always pursued solutions that make a difference. Currently, as a visiting professor at CERN and an innovator at Holobiont Oy, I remain committed to pushing the boundaries of science and improving lives through transformative health technologies
 
-Check out my [CV](/assets/files/СV_Risto_Orava.pdf), my profile info at [LinkedIn](https://www.linkedin.com/in/risto-orava-33977b336/). You can also follow my latest contributions to the [Holobionter project](https://www.holobionter.com/).
+Check out my [CV](/assets/files/СV_Risto_Orava.pdf) and my profile info at [LinkedIn](https://www.linkedin.com/in/risto-orava-33977b336/). You can also follow our latest progress in the [Holobionter project](https://www.holobionter.com/).
 
 ---
