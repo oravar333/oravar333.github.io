@@ -6,7 +6,7 @@ layout: home
 title: Short bio
 css: "/assets/css/index.css"
 cover-img:
-  - "/assets/images/Siviez.JPEG" : "Lapland, Finland, 2023"
+  - "/assets/images/Siviez.JPEG" : "Lapland, Finland"
 ---
 
 ## A Life in Science and Innovation!
